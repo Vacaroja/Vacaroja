@@ -25,6 +25,7 @@ I combine a solid foundation in IT Support Analysis with a creative approach to 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,spring,tensorflow,postgres,flask,powershell,firebase,git,github,gradle,androidstudio,idea,postman,vscode,arduino&perline=12)](https://skillicons.dev)
 
  
+---
 
 ### 🔗 &nbsp;Contact Me
 
